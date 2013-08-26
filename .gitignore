@@ -16,3 +16,8 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Puppet things
+modules/ntp
+modules/stdlib
+modules/timezone
