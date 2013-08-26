@@ -1,0 +1,4 @@
+puppet
+======
+
+My puppet configuration
